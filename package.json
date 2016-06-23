@@ -1,0 +1,27 @@
+{
+  "name": "loopback-ds-authorization-mixin",
+  "version": "1.0.0",
+  "description": "A mixin to automatically generate authorization for loopback Models",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emiya0306/loopback-ds-authorization-mixin.git"
+  },
+  "keywords": [
+    "loopback",
+    "mixins",
+    "authorization"
+  ],
+  "author": "Emiya0306",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emiya0306/loopback-ds-authorization-mixin/issues"
+  },
+  "homepage": "https://github.com/Emiya0306/loopback-ds-authorization-mixin#readme",
+  "dependencies": {
+    "lodash": "^4.13.1"
+  }
+}
